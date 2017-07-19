@@ -1,5 +1,5 @@
 /*************************************************************************          
-    * binarySemaphore.c : Program to show how Binary Semaphore works.    *   
+    * semaphore.c : Program to show how Binary Semaphore works.    *   
     *                                                                    *   
     * Author:  Sandeep P, Singh                                          *   
     *                                                                    *   
